@@ -1,6 +1,9 @@
 # fast-paced
 Song created with Sonic Pi coding music environment
 
+![TrippyAnimationGIF](https://github.com/matheusgomessouza/fast-paced/assets/62625213/de74561f-7451-4519-878f-df68c0ec55f9)
+
+
  **👨‍💻 Tecnologias / Technologies**
 
 Esse projeto foi desenvolvido com as seguintes tecnologias / This project was developed with the following technologies:
