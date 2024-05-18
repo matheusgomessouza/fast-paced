@@ -1,4 +1,4 @@
-# dispear
+# fast-paced
 Song created with Sonic Pi coding music environment
 
  **👨‍💻 Tecnologias / Technologies**
