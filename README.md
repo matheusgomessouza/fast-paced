@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias / This project was de
 
 **💻 Projeto / Project**
 
-Fast-paced in my second music written in the Sonic Pi, with the inspiration of [`algorave-dave`](https://github.com/algorave-dave) 🎶
+Fast-paced is my second music written in the Sonic Pi, with the inspiration of [`algorave-dave`](https://github.com/algorave-dave) 🎶
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
